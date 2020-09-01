@@ -1,4 +1,4 @@
-<h1 align="center>Gatsby Starter</h1>
+<h1 align="center">A Simple Gatsby Starter</h1>
 
 A simple Gatsby starter project with sensible defaults including:
 
@@ -13,4 +13,11 @@ A simple Gatsby starter project with sensible defaults including:
 * framer-motion
 * polished
 
-
+Simply clone the repo and run:
+```shell
+npm install
+```
+or 
+```shell
+yarn 
+```
