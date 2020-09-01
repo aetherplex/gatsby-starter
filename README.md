@@ -1,4 +1,4 @@
-<h1 align="center">A Simple Gatsby Starter</h1>
+<h1 align="center">Simple Gatsby Starter</h1>
 
 A simple Gatsby starter project with sensible defaults.
 
